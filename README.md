@@ -8,3 +8,4 @@ Mastery: Projectile fired off some height difference
 Future features to be developed:
 1) Modify the way in which questions are appended into the LaTeX file
 2) Adding a variety of questions within each category so that we can get some varience in the types of problems they would be exposed to
+3) Integrate csv_writer into the object so we can run from a single main file in future itterations
